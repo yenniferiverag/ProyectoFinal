@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package grupo2_sc.pkg303_mv_avanceno2;
 
 /**
@@ -18,4 +15,5 @@ public class Grupo2_SC303_MV_AvanceNo2 {
     }
     
 }
-test1
+
+testing 3
