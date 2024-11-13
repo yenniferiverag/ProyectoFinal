@@ -1,3 +1,5 @@
+package grupo2_sc.pkg303_mv_avanceno2;
+
 public class Ejercicio {
     private String nombre;
     private String descripcion;
