@@ -19,10 +19,10 @@ public class Usuario {
         this.edad = edad;
         this.altura = altura;
         this.peso = peso;
-        setCorreo(correo);  // Use the setter to validate the email format
+        setCorreo(correo);  // setter para validat el formato de email
     }
 
-    // Getters and setters for each property
+    // Getters and setters para cada propiedad
     public String getNombre() { return nombre; }
     public void setNombre(String nombre) { this.nombre = nombre; }
     
