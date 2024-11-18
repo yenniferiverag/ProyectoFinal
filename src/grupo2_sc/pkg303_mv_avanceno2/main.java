@@ -13,9 +13,7 @@ public class main {
         if (!directorio.exists()) {
             directorio.mkdirs();
         }
-        if (!fichero.exists()) {
-            fichero.mkdirs(); 
-                }
+        
      FidnessPro FidnessPro2 = new FidnessPro();
      FidnessPro2.setVisible(true);
      
